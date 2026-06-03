@@ -1,10 +1,9 @@
 # Hi 👋 I'm Gurpreet Singh
 
-Flutter Developer from Punjab, India.
+Flutter Developer with 5+ years of experience building Android & iOS applications using Flutter, Supabase, Firebase, and Google Maps.
 
-## 🚀 Skills
-- Android Developer 
-- Ios Developer
+## 🚀 Tech Stack
+
 - Flutter
 - Dart
 - Supabase
@@ -12,16 +11,32 @@ Flutter Developer from Punjab, India.
 - Google Maps
 - REST APIs
 
-## 📱 Projects
-- Kisan Mandi
-- Farm Fresh Nearby
-- Land Measurement App
-- AR Height & Distance Measurement
+## 📱 Featured Projects
+
+### 🌾 Kisan Mandi
+Agriculture marketplace app for Punjab & Haryana farmers.
+
+### 🚜 Farm Fresh Nearby
+Local farm produce buying and selling platform powered by Supabase.
+
+### 📏 Land Measurement App
+GPS and AR based land measurement solution.
+
+### 🤖 Reply Craft AI
+AI-powered content and reply generation tool.
 
 ## 🌱 Currently Learning
-- Clean Architecture
-- Advanced Flutter
-- AI Integration
 
-## 📫 Connect
-- GitHub: github.com/preetmogga
+- Advanced Flutter Architecture
+- AI Integration in Mobile Apps
+- Supabase Performance Optimization
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preetmogga&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preetmogga&layout=compact)
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/preetmogga
